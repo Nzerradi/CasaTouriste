@@ -1,0 +1,273 @@
+<resources>
+
+    <string name="app_name">CasaForAll</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Strings for the navigation drawer menu-->
+    <string name="nav_header_image">Image for navigation pane header</string>
+    <string name="menu_title_home">Accueil</string>
+    <string name="menu_section_sleep_eat_drink">L\'essentiel pour vivre</string>
+    <string name="menu_title_hotels">Hotels</string>
+    <string name="menu_title_grocery_stores">Supermarché</string>
+    <string name="menu_title_restaurants">Restaurants</string>
+    <string name="menu_title_cafes">Cafes</string>
+    <string name="menu_section_relax_chill_move">Divertissement</string>
+    <string name="menu_title_beaches">Plages</string>
+    <string name="menu_title_sports">Sports</string>
+    <string name="menu_title_leisure_parks">Parc d\'attraction</string>
+    <string name="menu_title_events">Evenements et Concerts</string>
+
+    <!-- Strings for the home screen-->
+    <string name="home_benicassim_me_gusta">Benicassim Me Gusta</string>
+    <string name="home_benicassim_playa">Benicassim Playa</string>
+    <string name="home_benicassim_columbrete_islands">Columbrete Islands</string>
+    <string name="home_benicassim_paella">Paëlla</string>
+
+    <string name="home_benicassim_description_p1">
+    Casablanca (ou Ville Blanche), la plus grande ville du Maroc. Capitale économique, elle est située sur la côte Atlantique à environ 80 km au sud de la capitale administrative du pays, Rabat. Troisième ville touristique du Pays,Casablanca vous parle de son passé colonial à travers une partie de son architecture restait intacte. Ville animée, elle connaît aussi un grand nombre d’évènements artistiques et économiques durant toute l’année. Avec ces deux foires internationales d’exposition, Casablanca est  la capitale de l’évènementiel Marocain. Casablanca est une destination contrastée alliant culture et détente, traditions et modernité.  </string>
+    <string name="home_benicassim_description_p2">
+        À Casablanca tu peux trouver: L\'ancienne médina (Bab Marrakech), le marché central et le Derb Ghallef (un grand marché aux puces) sont quelques-uns des sites les plus pittoresques de la ville blanche.  Le quartier des Habbous ou "nouvelle médina" est connu pour ses boutiques d\'artisanat.  Par un vif contraste, la ville abrite aussi le plus grand centre commercial du Maroc et du Maghreb : le Twin Center Casablanca. Ces deux tours jumelles hautes de 115 mètres rassemblent quelques 130 boutiques sur 3 niveaux. </string>
+    <string name="home_benicassim_description_p3">Ne manquez pas de visiter la grande Mosquée Hassan II qui est le joyau de la ville et la Place Mohammed V.</string>
+
+    <!-- String for list item pictures-->
+    <string name="location_picture">Picture for location</string>
+
+    <!-- Strings for the hotels list-->
+    <string name="hotel_name_1">Kenzi Basma Hotel</string>
+    <string name="hotel_description_1">Hôtel moderne avec vue sur ville, chambres de style décontracté, restaurantbar branché et restaurant buﬀet. Situé à 10 minutes de marche de la station Place des Nations Unies (gare), cet hôtel contemporain se trouve à 2 km de la mosquée Hassan II et à 6 km de la plage Lalla Meryem. Décorées dans des tons neutres, les chambres conviviales disposent d\'un accès Wi-Fi gratuit, d\'une télévision à écran plat, d\'un mini-frigo et d\'un balcon avec vue sur la ville. Les suites en duplex sont dotées d\'un espace de vie séparé. Elles bénéﬁcient également d\'un petit-déjeuner buﬀet gratuit.  </string>
+    <string name="hotel_web_1"> www.kenzi-hotels.com/kenzibasma</string>
+    <string name="hotel_address_1">Avenue Moulay Hassan 1er, Casablanca 22000 </string>
+    <string name="hotel_phone_1">05222-23323</string>
+    <string name="hotel_opening_hours_1">24h/24 et 7j/7</string>
+
+    <string name="hotel_name_2">Imperial Casablanca Hotel &amp; Spa</string>
+    <string name="hotel_description_2">Chambres et suites modernes dans un hôtel élégant avec restaurant méditerranéen et bar chic. Situé dans un quartier qui regroupe plusieurs bâtiments Art déco, cet élégant hôtel se trouve à 3 minutes à pied de la gare de la Résistance, à 2 km de la cathédrale du Sacré-Cœur et à 3 km de la mosquée Hassan-II, installée au bord de l\'océan. Les chambres modernes et raﬃnées sont dotées d\'un accès Wi-Fi gratuit, d\'une télévision à écran plat, d\'un minibar et d\'un coﬀre-fort. Les suites comprennent en outre un coin salon. </string>
+    <string name="hotel_web_2">www.hotelimperialcasablanca.com/</string>
+    <string name="hotel_address_2">291, Boulevard Mohamed V &amp; Angle Rue Azilal، Ex Rond Point Shell، Casablanca 20110</string>
+    <string name="hotel_phone_2">05223-42729</string>
+    <string name="hotel_opening_hours_2"> 24h/ 24 et 7j/7</string>
+
+    <string name="hotel_name_3">Hôtel Atlas Almohades Casablanca </string>
+    <string name="hotel_description_3">Chambres raﬃnées dans hôtel élégant avec restaurant, piano-bar et café. Installé dans le centre-ville animé, cet hôtel élégant est situé à 11 minutes à pied des commerces et des restaurants de la place des Nations Unies. Il se trouve par ailleurs à 22 minutes de la Foire Internationale de Casablanca et à 16 minutes de la gare ferroviaire de Casa-Port. Les chambres raﬃnées disposent d\'une connexion Wi-Fi gratuite, d\'une télévision à écran plat, d\'un mini-frigo, d\'un nécessaire à thé et café, ainsi que d\'un coﬀre-fort. Les suites comprennent en outre un coin salon et un balcon avec vue sur la ville. L\'établissement comprend un piano-bar, un café à la carte, un restaurant élégant, un coin salon chaleureux à la réception ainsi qu\'un espace de réunion. </string>
+    <string name="hotel_web_3">www.hotelsatlas.com/</string>
+    <string name="hotel_address_3">1er, 20000,، Boulevard Moulay Hassan I, Casablanca</string>
+    <string name="hotel_phone_3">05222-20505</string>
+    <string name="hotel_opening_hours_3"></string>
+
+    <string name="hotel_name_4">Hotel Farah Casablanca </string>
+    <string name="hotel_description_4">Hôtel modeste, chambres et suites chaleureuses, petit-déjeuner gratuit, 3 restaurants et piscine extérieure. Les chambres et suites chaleureuses disposent d\'un accès Wi-Fi gratuit, d\'un minibar, de la télévision par satellite, d\'un coﬀre et oﬀrent une vue sur la ville. Les chambres de catégorie supérieure ont vue sur la mer, tandis que les suites possèdent une salle de séjour. Un service de chambre est proposé.Un petit-déjeuner et un parking sont proposés gratuitement. L\'hôtel abrite 3 restaurants, un salon de thé et un salon de jazz/cigares qui sert des sushis et des tapas. Il possède également une piscine extérieure et un centre de ﬁtness. Un service de massage est proposé dans le spa équipé d\'un jacuzzi, d\'un sauna et d\'un hammam. </string>
+    <string name="hotel_web_4">www.farahcasablanca.com</string>
+    <string name="hotel_address_4">Avenue des FAR, Casablanca </string>
+    <string name="hotel_phone_4">05224-58100</string>
+    <string name="hotel_opening_hours_4"></string>
+
+    <string name="hotel_name_5">Hôtel Prince De Paris</string>
+    <string name="hotel_description_5">Chambres classiques dans un hôtel sobre oﬀrant le petit-déjeuner gratuit, une discothèque animée et un spa. Situé à 5 minutes à pied de la station Place des Nations Unies, cet hôtel simple se trouve à 2 km du parc de la Ligue arabe et à 3 km de la mosquée Hassan II. Agrémentées d\'une décoration rétro, les chambres classiques sont dotées d\'un accès Wi-Fi gratuit, d\'une télévision à écran plat et d\'un minibar. Les suites possèdent également un espace de vie avec un canapé luxueux</string>
+    <string name="hotel_web_5">www.princedeparis.com</string>
+    <string name="hotel_address_5">24 Boulevard de Paris, Casablanca 20000</string>
+    <string name="hotel_phone_5">05225-43567</string>
+    <string name="hotel_opening_hours_5"> 24h/24</string>
+
+    <!-- Strings for the restaurants list-->
+    <string name="restaurant_name_1">Restaurant Le Basmane Casablanca</string>
+    <string name="restaurant_description_1">Chicken Specialities</string>
+    <string name="restaurant_web_1">http://www.basmane-restaurant.com/</string>
+    <string name="restaurant_address_1">Angle Boulevard de La Corniche et, Boulevard de l\'Océan Atlantique, Casablanca 20180 </string>
+    <string name="restaurant_phone_1">05227-97532</string>
+    <string name="restaurant_opening_hours_1">MON&#8211;SUN: 11h&#8211;23h00</string>
+
+    <string name="restaurant_name_2">Meson Asador Casablanca</string>
+    <string name="restaurant_description_2">Créée par Simo Sajid, chef-propriétaire et gagnant de l\'émission Masterchef Maroc 2015, voici Meson Asador. Vous serez immédiatement séduits par la décoration rustique du lieu et le choix judicieux des clichés qui ornent les murs. Vous serez également totalement conquis par les délicieux mets proposés, typiquement argentins ou des plats signature tels que le tartare bœuf et huîtres. Que ce soit de l\'entrée au dessert, invitant à la découverte de cette magniﬁque destination. Accueil chaleureux et service attentionné ! </string>
+    <string name="restaurant_web_2"></string>
+    <string name="restaurant_address_2">29 rue Elwouroud، Casablanca 20000</string>
+    <string name="restaurant_phone_2">05222-61818</string>
+    <string name="restaurant_opening_hours_2">MON&#8211;SUN: 12h&#8211;00h00</string>
+
+    <string name="restaurant_name_3">Restaurant Zayna</string>
+    <string name="restaurant_description_3"></string>
+    <string name="restaurant_web_3"></string>
+    <string name="restaurant_address_3">44 Rue Ibnou Khaldoun, Casablanca 20000 </string>
+    <string name="restaurant_phone_3">05225-42596</string>
+    <string name="restaurant_opening_hours_3">MON&#8211;SUN: 10h&#8211;1h</string>
+
+    <string name="restaurant_name_4">Don Camillo</string>
+    <string name="restaurant_description_4"></string>
+    <string name="restaurant_web_4"></string>
+    <string name="restaurant_address_4">8 Rue Abou Raqraq, Casablanca 20250</string>
+    <string name="restaurant_phone_4">05223-11644</string>
+    <string name="restaurant_opening_hours_4">MON&#8211;SUN: 11h30&#8211;1h30</string>
+
+    <string name="restaurant_name_5">Le Relais de Paris</string>
+    <string name="restaurant_description_5"></string>
+    <string name="restaurant_web_5"></string>
+    <string name="restaurant_address_5">Avenue Habib Sinaceur, Casablanca </string>
+    <string name="restaurant_phone_5">05223-68796</string>
+    <string name="restaurant_opening_hours_5">MON&#8211;SUN: 11h&#8211;00h00</string>
+
+    <string name="restaurant_name_6">Le Bistrot Chic</string>
+    <string name="restaurant_description_6"></string>
+    <string name="restaurant_web_6"></string>
+    <string name="restaurant_address_6">Rue Taha Hussein, Casablanca 20000 </string>
+    <string name="restaurant_phone_6">05222-97878</string>
+    <string name="restaurant_opening_hours_6">MON&#8211;SUN: 12h&#8211;1h00</string>
+
+    <!-- Strings for the cafes list-->
+    <string name="cafe_name_1">Café Yassir</string>
+    <string name="cafe_description_1"></string>
+    <string name="cafe_web_1"></string>
+    <string name="cafe_address_1">Boulevard Tiflet, Casablanca</string>
+    <string name="cafe_phone_1">0669-664568</string>
+    <string name="cafe_opening_hours_1">MON&#8211;SUN: 7h30&#8211;23h30</string>
+
+    <string name="cafe_name_2">Jet Set Coffee</string>
+    <string name="cafe_description_2"></string>
+    <string name="cafe_web_2"></string>
+    <string name="cafe_address_2">247 Boulevard de Fes, Casablanca </string>
+    <string name="cafe_phone_2">05225-25454</string>
+    <string name="cafe_opening_hours_2">MON&#8211;SUN: 7h30&#8211;01h00</string>
+
+    <string name="cafe_name_3">STARBUCKS COFFEE</string>
+    <string name="cafe_description_3"></string>
+    <string name="cafe_web_3"></string>
+    <string name="cafe_address_3">Jamaldine Villa, Casablanca \n Boulevard d\'Anfa, Casablanca 2000\n Gare ONCF Casa Port، Casablanca </string>
+    <string name="cafe_phone_3">05223-85648</string>
+    <string name="cafe_opening_hours_3">MON&#8211;SUN: 6h00&#8211;10h00</string>
+
+
+    <!-- Strings for the grocery stores list-->
+    <string name="grocery_store_name_1">Marjane TACHFINE CENTER</string>
+    <string name="grocery_store_description_1"></string>
+    <string name="grocery_store_web_1"></string>
+    <string name="grocery_store_address_1">Boulevard Ibn Tachfine, Casablanca 20250</string>
+    <string name="grocery_store_phone_1">05290-49656</string>
+    <string name="grocery_store_opening_hours_1">09AM  10PM</string>
+
+    <string name="grocery_store_name_2">Acima Emile Zola</string>
+    <string name="grocery_store_description_2">Supermarket</string>
+    <string name="grocery_store_web_2"></string>
+    <string name="grocery_store_address_2">445 Boulevard Emille Zola, Casablanca 20250</string>
+    <string name="grocery_store_phone_2"> 05222-40081</string>
+    <string name="grocery_store_opening_hours_2">MON&#8211;SAT: 9h&#8211;21h30\nSUN: Closed</string>
+
+    <string name="grocery_store_name_3">Carrefour Gourmet</string>
+    <string name="grocery_store_description_3">Supermarket</string>
+    <string name="grocery_store_web_3"></string>
+    <string name="grocery_store_address_3"></string>
+    <string name="grocery_store_phone_3">05226-39880</string>
+    <string name="grocery_store_opening_hours_3">MON&#8211;SAT: 9h&#8211;21h30\nSUN: Closed</string>
+
+    <string name="grocery_store_name_4">Marjane Californie</string>
+    <string name="grocery_store_description_4">Supermarket</string>
+    <string name="grocery_store_web_4"></string>
+    <string name="grocery_store_address_4"></string>
+    <string name="grocery_store_phone_4">05290-21930</string>
+    <string name="grocery_store_opening_hours_4">MON&#8211;SAT: 9h&#8211;21h30\nSUN: 9h&#8211;15h</string>
+
+
+
+    <!-- Strings for the beaches list-->
+    <string name="beach_name_1">Atlantic Beach</string>
+    <string name="beach_description_1">Atlantic Beach est une plage privée sur la plage de Dar Bouazza. Vous pouvez vous détendre sur les relax et proﬁter du soleil, ou passer à l\'ombre côté restaurant et déguster une cuisine délicieuse à base de fruits de mer et de poisson. En journée, le mix de musique égaiera vos déjeuners et après-midis.</string>
+
+    <string name="beach_name_2">Tahiti Beach Club</string>
+    <string name="beach_description_2">Le Tahiti Beach Club est un vrai club où les petits et comme les grands peuvent se détendre et s’amuser en tout convivialité. Vous aurez le choix entre 3 restaurants et un chiringuito pour vos repas et pour vos baignades, des piscines et des plages privées sont à disposition. </string>
+
+    <string name="beach_name_3">Tropicana</string>
+    <string name="beach_description_3">Le Club Plage Tropicana dispose d\'une piscine, de transats, de jeux pour enfants, d\'un snack et d\'un bar pour déguster des cocktails tout en se prélassant au soleil. L\'endroit est sur la plage, il est idéal pour une sortie en famille ou entre amis pour se reposer et se rafraîchir. </string>
+
+    <string name="beach_name_4">Almadraba</string>
+    <string name="beach_description_4">An excellent beach regenerated with natural sand. A promenade goes along its extension of fine sand and only two peaks separate it from adjacent beaches and shelter it from swell.
+        This beach is adapted to people with reduced mobility. It is the southern extension of the Voramar beach, so that its characteristics are similar.
+        Like the Voramar beach Almadraba Beach provides a sense of calm. It is a sandy beach with a gentle slope.
+        One of its most important features is that it is an accessible beach. It has gateways to shore.</string>
+
+    <string name="beach_name_5">Els Terrers</string>
+    <string name="beach_description_5">The protection of spikes gives the beach an oval shape, which shelters it from draughts and forms two inlets very suitable for bathing or getting initiated in water sports.
+        The existence of a sailing school and a youth hostel which gives it a young atmosphere.</string>
+
+    <!-- Strings for the sport activities list-->
+    <string name="sport_name_1">Moroccan Mountain Bikers</string>
+    <string name="sport_description_1">Moroccan Mountain Bikers Casablanca est votre club de cyclisme à Casablanca, situé au quartier GAUTHIER à Casablanca. Moroccan Mountain Bikers vous accueille et propose un ensemble de services et d\'activités : VTT, Cyclisme, et autres. Moroccan Mountain Bikers est un club de cyclisme pour Femme et Homme et Enfant. Moroccan Mountain Bikers est une Association de jeunes vttiste marocains dont le but est de faire progresser ce type de sport au Maroc. L\'association Moroccan Mountain Bikers de Casablanca vous propose une série d\'activités qui va rejoindre un grand nombre d\'adeptes du VTT. Nous vous proposons des sorties régulières en vélo, des sorties comportant quelques déﬁs, des ateliers et autres activités pour tout type de niveau. </string>
+    <string name="sport_web_1"></string>
+    <string name="sport_address_1">GAUTHIER, Casablanca</string>
+    <string name="sport_phone_1"></string>
+    <string name="sport_opening_hours_1"></string>
+
+    <string name="sport_name_2">Le Temple Sports </string>
+    <string name="sport_description_2">Le Temple Sports Casablanca est votre club des arts martiaux à Casablanca. Le Temple Sports vous accueille et propose un ensemble de services et d\'activités : Aikido, Taekwondo, Self défense, Kung fu, Jiu-Jitsu brésilien, Iaïdo, Boxe, Judo, Karaté, Boxe thaïlandaise, Boxe anglaise, Full-contact, Tai Chi, et autres. Le Temple Sports est un club des arts martiaux pour Femme et Homme et Enfant.Nous vous invitons alors à venir découvrir Le TEMPLE Sports et toutes ses activités dans un cadre convivial où l\'esprit et le corps se rejoignent pour atteindre cette harmonie que nous, adeptes d\'arts martiaux, recherchons tant. </string>
+    <string name="sport_web_2">http://www.letemplesports.com/</string>
+    <string name="sport_address_2">8 Angle Rue Ibn Assanaani et Al Ayachi Avenue Dr Sijelmassi (ex Avenue du Phare) au quartier BOURGOGNE à Casablanca.</string>
+    <string name="sport_phone_2"></string>
+    <string name="sport_opening_hours_2">MON-SUN: 8h-21h</string>
+
+    <string name="sport_name_3">Passage Fitness ANFA</string>
+    <string name="sport_description_3">Passage Fitness ANFA Casablanca est votre club de sport à Casablanca, situé exactement à Boulevrad de la corniche, AnfaPlace Business center au quartier AIN DIAB à Casablanca. Passage Fitness ANFA vous accueille et propose un ensemble de services et d\'activités : Yoga, Musculation, Kick Boxing, Fitness, Danse africaine, Danse, et autres. Passage Fitness ANFA est un club de sport pour Femme et Homme. Passage Fitness, est la référence du Fitness au Maroc, un concept 5 étoiles all inclusive installé à Anfa place shopping center , avec parking gratuit, une piscine extérieure et accès direct à plage ! Avec son label de qualité européen, Passage Fitness vous propose un programme complet et varié, des concepts de danses, de yoga, des cours collectifs et du coaching personnalisé. Passage Fitness vous accompagne et met à votre disposition des appareils dernière génération et une formation de nos coachs Les Mills. Et ce n’est pas ﬁni! Passage ﬁtness dispose  aussi d\’un restaurant au bord  de la piscine pour une ambiance familiale et cosy.</string>
+    <string name="sport_web_3">https://passage.ﬁtness</string>
+    <string name="sport_address_3">Boulevrad de la corniche, AnfaPlace Business center, AIN DIAB, Casablanca</string>
+    <string name="sport_phone_3">+212522648023</string>
+    <string name="sport_opening_hours_3">Ouvert 7j/7 </string>
+
+    <string name="sport_name_4">Morocco Bodyboard Academy</string>
+    <string name="sport_description_4">Morocco Bodyboard Academy Casablanca est votre ecole de bodyboard à Casablanca, située exactement à Jack Beach, Boulevard de l\'Océan Atlantique, Porte N°19 au quartier AIN DIAB à Casablanca. Morocco Bodyboard Academy vous accueille et propose un ensemble de services et d\'activités : Surf, Bodyboard, et autres. Morocco Bodyboard Academy est une ecole de bodyboard pour Femme et Homme et Enfant. Afﬁliée à la Fédération Royale Marocaine de Surf et de Bodyboard, la Morocco Bodyboard Academy qui a pour ﬁnalité la pratique sportive du Bodyboard. L\'objectif du club est de permettre aux athlètes d\’évoluer au plus haut niveau de compétition tandis que l\'école fait découvrir à tous
+les plaisirs de la glisse.</string>
+    <string name="sport_web_4">http://moroccobodyboardacademy.com/</string>
+    <string name="sport_address_4">Jack Beach, Boulevard de l\'Océan Atlantique, Porte N°19, AIN DIAB, Casablanca</string>
+    <string name="sport_phone_4">+34 964 28 23 14</string>
+    <string name="sport_opening_hours_4">MON-SUN: 10h-13h | 15h-17h</string>
+
+    <string name="sport_name_5">Atlantique football Club</string>
+    <string name="sport_description_5">Atlantique football Club Casablanca est votre club de sport à Casablanca, situé exactement à Rue walidia El Hank au quartier AIN DIAB à Casablanca. Atlantique football Club vous accueille et propose un ensemble de services et d\'activités : Football, et autres. Atlantique football Club est un club de sport pour Homme et Enfant. Atlantique Football Club est un centre de foot loisirs de 10 terrains de football synthétiques 5/5 et 7/7 construit dans un cadre fantastique en bord de mer et vous offrant tous les services complémentaires. Nous proposons le meilleur pour vos enfants, 10 terrains dotés de pelouses dernière génération, un ludo parc de 2000 m2 pour faire de votre séance un moment de détente en famille, une cafétéria avec vue idyllique pour vous permettre de vous détendre en attendant votre enfant. </string>
+    <string name="sport_web_5">http://atlantiquefc.ma/</string>
+    <string name="sport_address_5">Rue walidia El Hank, AIN DIAB, Casablanca </string>
+    <string name="sport_phone_5">+34 964 30 36 03</string>
+    <string name="sport_opening_hours_5">MON: Closed\nTUE-FRI: 10h-20h\nSAT-SUN: 10h-21h</string>
+
+    <string name="sport_name_6">Royal Golf d\'Anfa</string>
+    <string name="sport_description_6">Royal Golf d\'Anfa Casablanca est votre club de sport à Casablanca, situé exactement à Lice d’Anfa au quartier ANFA SUPERIEUR à Casablanca. Royal Golf d\'Anfa vous accueille et propose un ensemble de services et d\'activités : Golf, et autres. Royal Golf d\'Anfa est un club de sport pour Femme et Homme et Enfant. Le golf d’Anfa est un 9 trous situé au coeur de Casablanca. Par 70 de 5.537m, ce n\’est pas avec des qualités de puissance que ce tracé doit être affronté mais avec de l\’imagination en se préparant à quelques surprises et surtout avec un excellent petit jeu.
+</string>
+    <string name="sport_web_6">http://rgam.ma/rgam-anfa/</string>
+    <string name="sport_address_6">Lice d’Anfa, ANFA SUPERIEUR, Casablanca</string>
+    <string name="sport_phone_6"></string>
+    <string name="sport_opening_hours_6">FRI-SAT: 16h-1h30\nSUN: 16h-0h</string>
+
+    <!-- Strings for the leisure parks list-->
+    <string name="leisure_park_name_1">Parc Sindibad</string>
+    <string name="leisure_park_description_1">Parc d\'aventure avec montagnes russes, manèges et zoo abritant des animaux africains et asiatiques.</string>
+    <string name="leisure_park_web_1">aquarama.net</string>
+    <string name="leisure_park_address_1">Boulevard de l\'Océan Atlantique, Casablanca 20052 </string>
+    <string name="leisure_park_phone_1">05227-96862</string>
+    <string name="leisure_park_opening_hours_1">MON-SUN: 11h-19h (from June 10th)</string>
+
+    <string name="leisure_park_name_2">Parc De Jeux Yasmina</string>
+    <string name="leisure_park_description_2">Ce parc d\'attractions pour les enfants de 2 à 14 ans comporte aussi une garderie, une boutique et un snack.</string>
+    <string name="leisure_park_web_2"></string>
+    <string name="leisure_park_address_2">Boulevard Moulay Youssef, Casablanca 20250 </string>
+    <string name="leisure_park_phone_2">0677-453636</string>
+    <string name="leisure_park_opening_hours_2">MON-SUN: 10h-20h</string>
+
+    <string name="leisure_park_name_3">Parc Loupi Land</string>
+    <string name="leisure_park_description_3"></string>
+    <string name="leisure_park_web_3"></string>
+    <string name="leisure_park_address_3"> Oulfa, Casablanca, Morocco 20000</string>
+    <string name="leisure_park_phone_3"></string>
+    <string name="leisure_park_opening_hours_3"></string>
+
+    <!-- Strings for the events list-->
+    <string name="event_name_1">TEDxCasablanca</string>
+    <string name="event_description_1">Le TEDxCasablanca est de retour! Il revient avec une nouvelle équipe et une nouvelle dynamique pour le plaisir des passionnés de TED et TEDx! Quand ? Samedi 1er Décembre 2018. Qui? Une impressionnante brochette de speakers. Préinscrivez-vous pour être informés en avant-première de toute l\'actualité du TEDxCasablanca. Rejoignez nous dans cette quête d\'idées qui méritent d\'être partagées! </string>
+    <string name="event_web_1">https://tinyurl.com/y9w6anya Marquez</string>
+    <string name="event_address_1"> Université Mohammed VI des Sciences de la Santé</string>
+    <string name="event_phone_1"></string>
+    <string name="event_opening_hours_1"></string>
+
+    <string name="event_name_2">Celtic Legends 2018</string>
+    <string name="event_description_2">Après le succès triomphal de la tournée 2017, à l\'occasion de son quinzième anniversaire, ponctuée par 8 représentations sold-out à l\' OLYMPIA à Paris, CELTIC LEGENDS est de retour avec un tout nouveau spectacle entièrement revisité ! Celtic Legends, un nom que l\'on entend depuis de nombreuses années... mais si le nom reste, le spectacle, lui, évolue sans cesse, pour le plus grand plaisir des amateurs de musique et de danse irlandaises. Venez à la rencontre des 20 artistes qui vous feront voyager vers les landes sauvages du Connemara . Ensemble , sur scène , ils vous raconteront l\'histoire du peuple de l\'île d\'Emeraude avec énergie et virtuosité . Deux heures de tourbillon colorés , des danses époustouﬂantes chorégraphiées par la talentueuse Jacintha Sharpe sur des rythmes traditionnels effrénés interprétés par 6 musiciens (Uillean-pipes, ﬂûte, violon, bodhran, guitare, accordéon) le tout sous la direction musicale de Sean Mc Carthy. CELTIC LEGENDS 2018 – CONNEMARA TOUR le 7 Décembre 2018 au Cinéma Rialto de Casablanca , UN NOUVEAU SHOW FAMILIAL 100% LIVE qui conjugue tradition, créativité et modernité</string>
+
+    <string name="event_web_2"></string>
+    <string name="event_address_2"> Cinéma Rialto de Casablanca </string>
+    <string name="event_phone_2">0644 89 02 0</string>
+    <string name="event_opening_hours_2"> le 7 Décembre 2018 </string>
+
+</resources>

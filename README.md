@@ -5,11 +5,11 @@
 
 This project is part of the training of the central school of Casablanca.
 
-# Guide touristique pour la ville de casablanca
+# Guide touristique pour la ville de Casablanca
 
 --> L'objectif était de créer une application de guide touristique présentant des informations pertinentes sur la ville de Casablanca. L'application devait répertorier les principales attractions, restaurants, lieux publics ou événements de la capitale economique du Maroc.
 
-Ce projet entre dans le cadre de la formation de l'école centrale de casablanca. 
+Ce projet entre dans le cadre de la formation de l'école Centrale de casablanca. 
 
 <img src ="CasaForAllSplash.png?raw=true" width="23%"></img>
 <img src ="casa2.png?raw=true" width="23%"></img>
